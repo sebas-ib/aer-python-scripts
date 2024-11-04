@@ -2,6 +2,7 @@ import csv
 import pandas as pd
 
 # Input and output file names
+# Hardcoded for now, can be changed later
 input_file = 'rc_0.log'
 output_file = 'rc_0.csv'
 
